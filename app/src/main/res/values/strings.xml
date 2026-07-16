@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infranite AI</string>
+    <string name="offline_mode">You are offline</string>
+    <string name="online_mode">Back online</string>
+</resources>
